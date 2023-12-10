@@ -64,6 +64,29 @@ class _MyHomePageState extends State<MyHomePage> {
         tooltip: 'Increment',
         child: const Icon(Icons.add),
       ),
+
+      class HomeScreen extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Homescreen Sederhana'),
+      ),
+      body: Center(
+        child: Text(
+          'Selamat datang di Flutter!',
+          style: TextStyle(fontSize: 20),
+        ),
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {
+          // Tambahkan aksi yang diinginkan di sini
+        },
+        child: Icon(Icons.add),
+      ),
+    );
+  }
+};
     );
   }
 }
