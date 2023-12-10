@@ -13,13 +13,13 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference. -->#
+samples, guidance on mobile development, and a full API reference. -->
 # Nama Anggota 
 ## 1: Machfud Ichsan Khoi
-## NIM: 12022120032
+### NIM: 12022120032
 
 
 ## 2: Leinia Suryadi
-## NIM: 1202212025
+### NIM: 1202212025
 
-Untuk bapak tercinta papak paujan dan asprak tergancc 
+# Untuk bapak tercinta papak paujan dan asprak tergancc 
